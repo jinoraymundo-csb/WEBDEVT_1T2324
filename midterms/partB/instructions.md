@@ -1,4 +1,4 @@
-# Midterm Exams Part 2 (Practical Exam)
+# Midterm Exams Part B (Practical Exam)
 
 1. Download and extract the starter files from this [link](https://drive.google.com/file/d/17axZ4Q6-Ty9STZROQyXfNuFctHHY_lkA/view?usp=sharing)
 
