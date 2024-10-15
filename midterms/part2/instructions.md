@@ -17,8 +17,11 @@
   - e. The 5 images in `ul.photos` should be displayed in a 2-column grid with a 1px gap between the images [10pts]
 
 4. When done, kindly compress the same files and renamed the compressed file in the following format:
-(failure to follow this formatting will be subjected to a 20pt deduction)
+
+**(failure to follow this formatting will be subjected to a 20pt deduction)**
 
 `WEBDEVT_<section>_ME_<surname>_<givenname>.zip`
+
 e.g.
+
 `WEBDEVT_TIS1_ME_raymundo_jino.zip`
